@@ -9,18 +9,18 @@ Initial Security()
 {
  //Sample Code
 }
-
+<<<<<<< HEAD
 
 Security Patch()
 {
 	//Applying security patch 
 }
-
+=======
 Feature1 Function()
 {
 	//Feature1 function.
 }
 
-
+>>>>>>> feature1
 
 }
